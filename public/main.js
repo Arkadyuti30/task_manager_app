@@ -1,0 +1,32 @@
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ "./index.js":
+/*!******************!*\
+  !*** ./index.js ***!
+  \******************/
+/***/ (() => {
+
+eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nError: Cannot find package '@babel/plugin-transform-runtime' imported from /Users/arkadyuti/Travelopia/task_manager_app/babel-virtual-resolve-base.js\\n    at new NodeError (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/vendor/import-meta-resolve.js:194:5)\\n    at packageResolve (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/vendor/import-meta-resolve.js:908:9)\\n    at moduleResolve (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/vendor/import-meta-resolve.js:937:20)\\n    at defaultResolve (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/vendor/import-meta-resolve.js:1007:15)\\n    at resolve (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/vendor/import-meta-resolve.js:1020:12)\\n    at tryImportMetaResolve (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/files/plugins.js:142:45)\\n    at resolveStandardizedNameForImport (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/files/plugins.js:164:19)\\n    at resolveStandardizedName (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/files/plugins.js:173:22)\\n    at loadPlugin (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/files/plugins.js:52:20)\\n    at loadPlugin.next (<anonymous>)\\n    at createDescriptor (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/config-descriptors.js:140:16)\\n    at createDescriptor.next (<anonymous>)\\n    at step (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:261:32)\\n    at evaluateAsync (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:291:5)\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:44:11\\n    at Array.forEach (<anonymous>)\\n    at Function.async (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:43:15)\\n    at Function.all (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:216:13)\\n    at Generator.next (<anonymous>)\\n    at createDescriptors (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/config-descriptors.js:102:41)\\n    at createDescriptors.next (<anonymous>)\\n    at createPluginDescriptors (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/config-descriptors.js:99:17)\\n    at createPluginDescriptors.next (<anonymous>)\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/gensync-utils/functional.js:39:27\\n    at Generator.next (<anonymous>)\\n    at mergeChainOpts (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/config-chain.js:349:34)\\n    at mergeChainOpts.next (<anonymous>)\\n    at chainWalker (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/config-chain.js:316:14)\\n    at chainWalker.next (<anonymous>)\\n    at loadFileChain (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/config-chain.js:191:24)\\n    at loadFileChain.next (<anonymous>)\\n    at buildRootChain (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/config-chain.js:108:31)\\n    at buildRootChain.next (<anonymous>)\\n    at loadPrivatePartialConfig (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/partial.js:72:62)\\n    at loadPrivatePartialConfig.next (<anonymous>)\\n    at loadPartialConfig (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/config/partial.js:115:25)\\n    at loadPartialConfig.next (<anonymous>)\\n    at step (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:269:25)\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:273:13\\n    at async.call.result.err.err (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:223:11)\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:50:45\\n    at step (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:287:14)\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:273:13\\n    at async.call.result.err.err (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:223:11)\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:189:28\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/@babel/core/lib/gensync-utils/async.js:67:7\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:113:33\\n    at step (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:287:14)\\n    at /Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:273:13\\n    at async.call.result.err.err (/Users/arkadyuti/Travelopia/task_manager_app/node_modules/gensync/index.js:223:11)\");\n\n//# sourceURL=webpack://task_manager_app/./index.js?");
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	
+/******/ 	// startup
+/******/ 	// Load entry module and return exports
+/******/ 	// This entry module doesn't tell about it's top-level declarations so it can't be inlined
+/******/ 	var __webpack_exports__ = {};
+/******/ 	__webpack_modules__["./index.js"]();
+/******/ 	
+/******/ })()
+;
